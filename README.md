@@ -211,15 +211,15 @@ Analyzes inventory based on products, categories, brands, warehouses, stock stat
 
 ### Overview
 
-![E-Commerce Dashboard Overview](images/Overview.png)
+![E-Commerce Dashboard Overview](https://raw.githubusercontent.com/mohansivakumarmaguluri/E-Commerce-Performance-Inventory-Dashboard/main/images/Overview%20Dashboard.png)
 
 ### Sales Analysis
 
-![Sales Analysis Dashboard](images/Sales%20Analysis.png)
+![Sales Analysis Dashboard](https://raw.githubusercontent.com/mohansivakumarmaguluri/E-Commerce-Performance-Inventory-Dashboard/main/images/Sales%20Analysis.png)
 
 ### Inventory Analysis
 
-![Inventory Analysis Dashboard](images/Inventory%20Analysis.png)
+![Inventory Analysis Dashboard](https://raw.githubusercontent.com/mohansivakumarmaguluri/E-Commerce-Performance-Inventory-Dashboard/main/images/Inventory%20Analysis.png)
 
 ---
 
