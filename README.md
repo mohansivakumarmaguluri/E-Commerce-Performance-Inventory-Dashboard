@@ -57,6 +57,8 @@ The Overview page provides a high-level summary of the overall e-commerce busine
 
 The Sales Analysis page focuses on understanding sales performance, revenue generation, customer behavior, and product performance.
 
+![Sales Analysis Dashboard](https://github.com/mohansivakumarmaguluri/E-Commerce-Performance-Inventory-Dashboard/blob/main/images/Screenshot%202026-08-03%20203908.png)
+
 ### Key KPIs
 
 - **Total Sales**
@@ -98,6 +100,8 @@ The dashboard enables users to identify:
 ## Inventory Analysis
 
 The Inventory Analysis page provides insights into product stock levels, inventory distribution, and replenishment requirements.
+
+![Inventory Analysis Dashboard](https://github.com/mohansivakumarmaguluri/E-Commerce-Performance-Inventory-Dashboard/blob/main/images/Screenshot%202026-08-03%20203922.png)
 
 ### Key KPIs
 
@@ -206,24 +210,6 @@ Analyzes sales performance based on products, categories, brands, customer segme
 ### 3. Inventory Analysis
 
 Analyzes inventory based on products, categories, brands, warehouses, stock status, and reorder levels.
-
----
-
-## Dashboard Preview
-
-### Overview
-
-![E-Commerce Dashboard Overview](https://github.com/mohansivakumarmaguluri/E-Commerce-Performance-Inventory-Dashboard/blob/main/images/Screenshot%202026-08-03%20203850.png)
-
-### Sales Analysis
-
-![Sales Analysis Dashboard](https://github.com/mohansivakumarmaguluri/E-Commerce-Performance-Inventory-Dashboard/blob/main/images/Screenshot%202026-08-03%20203908.png)
-
-### Inventory Analysis
-
-![Inventory Analysis Dashboard](https://github.com/mohansivakumarmaguluri/E-Commerce-Performance-Inventory-Dashboard/blob/main/images/Screenshot%202026-08-03%20203922.png)
-
----
 
 ## Key Insights
 
