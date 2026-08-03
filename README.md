@@ -22,6 +22,8 @@ Users can interact with different filters and slicers to dynamically analyze e-c
 
 The Overview page provides a high-level summary of the overall e-commerce business performance.
 
+![E-Commerce Dashboard Overview](https://github.com/mohansivakumarmaguluri/E-Commerce-Performance-Inventory-Dashboard/blob/main/images/Screenshot%202026-08-03%20203850.png)
+
 ### Key KPIs
 
 - **Total Sales**
